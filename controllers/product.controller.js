@@ -1,5 +1,5 @@
 const Product = require("../models/product.model.js");
-const product = require("../models/product.model.js");
+
 
 // Create and Save a new Customer
 exports.create = (req, res) => {
@@ -44,14 +44,20 @@ exports.create = (req, res) => {
       });
     }
   
-    // Create a Customer
+    // Create a product
     const product = new Product({
       productNumber: req.body.productNumber,
       productName: req.body.productName,
-      description: req.body.description
+      description: req.body.description,
+      brand: req.body.brand,
+      category: req.body.category,
+      price: req.body.price,
+      imageURL: req.body.imageURL,
+      freeShipping: req.body.freeShipping,
+      qtyOnHand: req.body.qtyOnHand
     });
   
-    // Save Customer in the database
+    // Save product in the database
     Product.create(product, (err, data) => {
       if (err)
         res.status(500).send({
