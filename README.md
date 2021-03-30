@@ -21,9 +21,9 @@ The Ecommerce site satisfies the needs of the consumer and the merchant by creat
 
 Specifically, the completed system will satisfy the following requirements:
 
-The system will run as a Web service.
-The system will allow a user to login
-The system will allow filtering and sorting of products
+The system will run as a Web service. /n
+The system will allow a user to login /n
+The system will allow filtering and sorting of products /n 
 The system will allow a shopping cart for multiple purchase
 The system will facilitate transactions 
 The system will keep track of previous orders.
