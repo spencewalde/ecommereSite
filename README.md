@@ -40,7 +40,7 @@ The system will send confirmation emails
 
 ## Functional Requirements:
 
-### h3 User view of current stock and purchasing options:
+### User view of current stock and purchasing options:
 
 Filter options based on product.
 
@@ -52,7 +52,7 @@ Popular items displayed on front page.
 
 
 
-### h3 User account view:
+### User account view:
 
 User name, contact info, address for shipping.
 
@@ -63,7 +63,7 @@ Ability to contact business.
 Email request.
 
 
-### h3 User shopping cart:
+### User shopping cart:
 Holds items user wishes to purchase.
 
 Customize quantity or delete held items.
@@ -75,7 +75,7 @@ Avoid to have to click to see contents of cart.
 Purchase of items in cart
 
 
-### h3 Admin Portal:
+### Admin Portal:
 
 Displays graphs about basic shopping trends and site data.
 
