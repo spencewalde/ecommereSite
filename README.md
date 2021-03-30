@@ -1,7 +1,7 @@
 410 Software Development 
 Spring 2021
 
-# H1 Ecommerce Website
+# Ecommerce Website
 
 Front-End: 
 React.js
@@ -16,10 +16,10 @@ thrid party transaction service:
 Stripe
 
 
-# h1 Customer or Market Need
+# Customer or Market Need
 The Ecommerce site satisfies the needs of the consumer and the merchant by creating a platform that brings them together for efficient and easy transactions. The online marketplace is not something new but it is something that is becoming exponentially more available and necessary to have as a business. The website does not address a change in how the market works. It only seeks to allow a specific, and unique entry into the marketplace for a business to compete in the rapid conversion to online shopping.
 
-# h2 Specifically, the completed system will satisfy the following requirements:
+## Specifically, the completed system will satisfy the following requirements:
 
 The system will run as a Web service.
 
@@ -38,9 +38,9 @@ The system will communicate shipping to warehouse associates.
 The system will send confirmation emails 
 
 
-# h2 Functional Requirements:
+## Functional Requirements:
 
-# h3 User view of current stock and purchasing options:
+### h3 User view of current stock and purchasing options:
 
 Filter options based on product.
 
@@ -52,7 +52,7 @@ Popular items displayed on front page.
 
 
 
- # h3 User account view:
+### h3 User account view:
 
 User name, contact info, address for shipping.
 
@@ -63,7 +63,7 @@ Ability to contact business.
 Email request.
 
 
-# h3 User shopping cart:
+### h3 User shopping cart:
 Holds items user wishes to purchase.
 
 Customize quantity or delete held items.
@@ -75,7 +75,7 @@ Avoid to have to click to see contents of cart.
 Purchase of items in cart
 
 
-# h3 Admin Portal:
+### h3 Admin Portal:
 
 Displays graphs about basic shopping trends and site data.
 
